@@ -1,0 +1,24 @@
+{
+  "version": "0.0.1",
+  "name": "angular-material-collapsible",
+  "homepage": "https://github.com/fagnersilvamartins/angular-material-collapsible",
+  "authors": [
+    "Fagner Silva Martins <fagner.martins@embedded.ufcg.edu.br>"
+  ],
+  "description": "Collapsibles are accordion elements that expand when clicked on. They allow you to hide content that is not immediately relevant to the user.",
+  "main": "collapsible.js",  
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "collapsible",
+    "angular-material",
+    "angularjs",
+    "angular1",
+    "angular-material-collapsible"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-material": "~1.0.0"
+  }
+}
