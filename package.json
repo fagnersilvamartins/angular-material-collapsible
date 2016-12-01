@@ -1,0 +1,36 @@
+{
+  "name": "angular-material-collapsible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/collapsible.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-inject": "^4.1.0",
+    "gulp-minify": "0.0.14",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fagnersilvamartins/angular-material-collapsible.git"
+  },
+  "keywords": [
+    "angular1",
+    "collapsible",
+    "angular-material"
+  ],
+  "author": "Fagner Silva Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fagnersilvamartins/angular-material-collapsible/issues"
+  },
+  "homepage": "https://github.com/fagnersilvamartins/angular-material-collapsible#readme"
+}

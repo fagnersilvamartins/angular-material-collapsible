@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('material.components.collapsible')
+        .module('ngMaterialCollapsible')
         .directive('mdCollapsible', MdCollapsible)
         .directive('mdCollapsibleItem', MdCollapsibleItem)
         .directive('mdCollapsibleHeader', MdCollapsibleHeader)

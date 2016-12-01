@@ -8,8 +8,8 @@
     /*
      * @see js folder for collapsible implementation
      */
-    angular.module('material.components.collapsible', [
-        'material.core'
+    angular.module('ngMaterialCollapsible', [
+        'ngMaterial'
     ]);
 
 })();
