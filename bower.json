@@ -7,7 +7,8 @@
   ],
   "description": "Collapsibles are accordion elements that expand when clicked on. They allow you to hide content that is not immediately relevant to the user.",
   "main": [
-    "main.js",
+    "dist/js/collapsible.min.js",
+    "dist/js/collapsibleDirective.min.js",
     "dist/css/collapsible.min.css"
   ],
   "moduleType": [
