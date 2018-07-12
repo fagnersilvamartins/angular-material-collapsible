@@ -46,6 +46,6 @@ md-collapsible md-collapsible-item md-collapsible-body {
   box-sizing: border-box;
   visibility: hidden; }
 
-md-collapsible md-collapsible-item.active md-collapsible-body {
+md-collapsible md-collapsible-item.active > md-collapsible-body {
   display: block;
   visibility: visible; }
